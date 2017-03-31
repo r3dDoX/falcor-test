@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/r3dDoX/falcor-test/issues"
   },
-  "homepage": "https://github.com/r3dDoX/falcor-test#readme"
+  "homepage": "https://github.com/r3dDoX/falcor-test#readme",
+  "dependencies": {
+    "express": "4.15.2",
+    "falcor-express": "0.1.4",
+    "falcor-router": "0.8.0"
+  }
 }
